@@ -1513,7 +1513,7 @@ body {
   width: 58px;
   height: 58px;
   font-size: 29px;
-  border: 2px solid #b2ccd2;
+  border: 2px solid #333333;
   border-radius: 50%;
 }
 @media (max-width: 991px) {
@@ -1525,11 +1525,11 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rA0L63p6B2 .cards-block {
-    border-top: 2px solid #b2ccd2;
+    border-top: 2px solid #333333;
   }
 }
 .cid-rA0L63p6B2 .cards-block .card {
-  border-bottom: 2px solid #b2ccd2;
+  border-bottom: 2px solid #333333;
   border-radius: 0;
 }
 .cid-rA0L63p6B2 .cards-container {
